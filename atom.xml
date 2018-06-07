@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>你好,我叫 千!</title>
+  
+  <subtitle>你好,我叫 千!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://myronliu.github.io/"/>
+  <updated>2018-06-07T11:11:21.362Z</updated>
+  <id>https://myronliu.github.io/</id>
+  
+  <author>
+    <name>[object Object]</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搭建hexo-theme-skapp主题博客</title>
+    <link href="https://myronliu.github.io/2018/06/07/test/"/>
+    <id>https://myronliu.github.io/2018/06/07/test/</id>
+    <published>2018-06-07T09:32:38.512Z</published>
+    <updated>2018-06-07T11:11:21.362Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="官网的中文文档"><a href="#官网的中文文档" class="headerlink" title="官网的中文文档"></a>官网的中文文档</h2><p><a href="https://github.com/Mrminfive/hexo-theme-skapp/blob/master/README-cn.md" target="_blank" rel="noopener">hexo-theme-skapp 中文简介</a></p><h2 id="针对搭建之后出现了js引用错误和本地图片的显示问题"><a href="#针对搭建之后出现了js引用错误和本地图片的显示问题" class="headerlink" title="针对搭建之后出现了js引用错误和本地图片的显示问题"></a>针对搭建之后出现了js引用错误和本地图片的显示问题</h2><p>1、搭建hexo-theme-skapp主题博客，<a href="http://www.gkl2013.top/2017/10/04/Github+Hexo/" target="_blank" rel="noopener">戳这里</a><br>2、博客的favicon图标，支持本地及在线两种方式，本地请将图标放置于 themes/hexo-theme-skapp/source/img 目录下<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ _config.yml 文件下配置：favicon_ico: /img/favicon.ico</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;h2 id=&quot;官网的中文文档&quot;&gt;&lt;a href=&quot;#官网的中文文档&quot; class=&quot;headerlink&quot; title=&quot;官网的中文文档&quot;&gt;&lt;/a&gt;官网的中文文档&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Mrminfive/hexo-th
+      
+    
+    </summary>
+    
+    
+      <category term="hexo-theme-skapp" scheme="https://myronliu.github.io/tags/hexo-theme-skapp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开始吧～</title>
+    <link href="https://myronliu.github.io/2018/06/07/hello-world/"/>
+    <id>https://myronliu.github.io/2018/06/07/hello-world/</id>
+    <published>2018-06-07T05:48:46.102Z</published>
+    <updated>2018-06-07T11:11:11.183Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>先自我介绍一下，我是一个前端开发，主要技术栈是react+node，菜鸟一枚。</p><p>其实搭建这个博客的目的，主要是为了记录自己的一些读书笔记啦、心得体会啦、经验教训啦、以后可能会有日记啊之类的吧。搭建博客的工具嘛就是这个啦～ <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! 有啥问题可以联系我～嗯，联系方式将来再公布吧，哈哈哈哈.</p><h2 id="自己的github"><a href="#自己的github" class="headerlink" title="自己的github"></a>自己的github</h2><h3 id="react-native-qrcode-logo"><a href="#react-native-qrcode-logo" class="headerlink" title="react-native-qrcode-logo"></a>react-native-qrcode-logo</h3><p>[react-native-qrcode-logo](<a href="https://github.com/myronliu/react-native-qrcode-logo）" target="_blank" rel="noopener">https://github.com/myronliu/react-native-qrcode-logo）</a></p><h3 id="一个简单的服务端渲染的框架——–-gt-约750行代码"><a href="#一个简单的服务端渲染的框架——–-gt-约750行代码" class="headerlink" title="一个简单的服务端渲染的框架——–&gt;约750行代码"></a>一个简单的服务端渲染的框架——–&gt;约750行代码</h3><p><a href="https://github.com/myronliu/ssr-koa-react-redux" target="_blank" rel="noopener">ssr-koa-react-redux</a></p><h3 id="自己练习写了一个express"><a href="#自己练习写了一个express" class="headerlink" title="自己练习写了一个express"></a>自己练习写了一个express</h3><p><a href="https://github.com/myronliu/nodeapp" target="_blank" rel="noopener">nodeapp</a></p><h2 id="另外写下发布文章更新文章的一些命令吧"><a href="#另外写下发布文章更新文章的一些命令吧" class="headerlink" title="另外写下发布文章更新文章的一些命令吧"></a>另外写下发布文章更新文章的一些命令吧</h2><h3 id="更新代码"><a href="#更新代码" class="headerlink" title="更新代码"></a>更新代码</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h3 id="发布、更新、删除文章"><a href="#发布、更新、删除文章" class="headerlink" title="发布、更新、删除文章"></a>发布、更新、删除文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g -d</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;先自我介绍一下，我是一个前端开发，主要技术栈是react+node，菜鸟一枚。&lt;/p&gt;
+&lt;p&gt;其实搭建这个博客的目的，主要是为了记录自己的一些读书笔记啦、心得体会啦、经验教训啦、以后可能会有日记啊之类的吧。搭建博客的工具嘛就是这个啦～ &lt;a href=&quot;https
+      
+    
+    </summary>
+    
+    
+      <category term="javascript, node, react" scheme="https://myronliu.github.io/tags/javascript-node-react/"/>
+    
+  </entry>
+  
+</feed>
