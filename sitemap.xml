@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://myronliu.github.io/about/index.html</loc>
+    
+    <lastmod>2018-06-14T10:38:30.235Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://myronliu.github.io/2018/06/14/promise/</loc>
     
     <lastmod>2018-06-14T10:23:35.537Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://myronliu.github.io/404/index.html</loc>
     
     <lastmod>2018-06-07T10:10:06.918Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://myronliu.github.io/about/index.html</loc>
-    
-    <lastmod>2018-06-07T10:07:49.599Z</lastmod>
     
   </url>
   
